@@ -1,0 +1,6 @@
+{
+  "name": "SignalPulse",
+  "description": "AI-powered binary options market analysis and 1-minute technical signal generator with multi-indicator confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SignalPulse</string>
+    <string name="nav_terminal">Terminal</string>
+    <string name="nav_matrix">Matrix</string>
+    <string name="nav_journal">Journal</string>
+    <string name="action_analyze_signal">Analyze &amp; Generate Signal</string>
+    <string name="action_refresh_feed">Refresh Feed</string>
+    <string name="action_broker_settings">Broker &amp; Risk</string>
+    <string name="label_main_chart_m1">M1 Main Chart</string>
+    <string name="label_expiry">Expiry</string>
+    <string name="label_payout">Payout</string>
+    <string name="label_spread">Spread</string>
+    <string name="label_volatility">Volatility</string>
+    <string name="label_disclaimer">Analysis for informational and educational decision support. Binary options carry high capital risk.</string>
+</resources>
